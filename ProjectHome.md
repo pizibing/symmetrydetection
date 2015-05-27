@@ -1,0 +1,1 @@
+This program implement the Siggraph 2006 Paper: Partial and approximate Symmetry Detection for 3D Geometry
